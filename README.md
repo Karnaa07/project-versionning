@@ -1,5 +1,6 @@
 # project-versionning
 03_01_2021_Projet_versionning
+QUENTIN GIRARD 3IW1 
 
 //La première étape consiste à compléter la branche main par défaut avec une branche develop. 
 
